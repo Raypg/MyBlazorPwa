@@ -1,0 +1,170 @@
+﻿'dotnet.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Private.CoreLib.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Users\raygr\.nuget\packages\microsoft.aspnetcore.components.webassembly.devserver\8.0.7\tools\blazor-devserver.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Runtime.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\SDK\8.0.303\DotnetTools\dotnet-watch\8.0.303-servicing.24317.6\tools\net8.0\any\middleware\Microsoft.AspNetCore.Watch.BrowserRefresh.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web Tools\Browser Link\Microsoft.WebTools.BrowserLink.Net.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Hosting.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Hosting.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Configuration.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Hosting.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.DependencyInjection.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.DependencyInjection.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.ComponentModel.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Collections.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Hosting.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Configuration.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Configuration.EnvironmentVariables.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Threading.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Server.Kestrel.Core.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Server.Kestrel.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Net.Quic.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Runtime.InteropServices.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Net.Sockets.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Net.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Diagnostics.Tracing.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\Microsoft.Win32.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\Microsoft.Win32.Registry.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Server.IIS.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Server.IISIntegration.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.FileProviders.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.FileProviders.Physical.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Diagnostics.DiagnosticSource.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Configuration.CommandLine.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Linq.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Configuration.Json.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Configuration.FileExtensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Http.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Memory.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.IO.FileSystem.Watcher.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.ComponentModel.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Collections.Concurrent.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Threading.Overlapped.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Configuration.Binder.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Configuration.UserSecrets.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Text.Json.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.FileProviders.Composite.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Text.Encodings.Web.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Text.Encoding.Extensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Runtime.Intrinsics.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Numerics.Vectors.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Private.Uri.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Options.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Logging.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Logging.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Diagnostics.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Diagnostics.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Logging.EventLog.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Logging.Configuration.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Options.ConfigurationExtensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Logging.Console.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Logging.Debug.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Logging.EventSource.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.Features.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Http.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Connections.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.ObjectPool.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.HostFiltering.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.HttpOverrides.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Routing.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Routing.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.ObjectModel.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Linq.Expressions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Console.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Threading.Thread.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\System.Diagnostics.EventLog.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Collections.Specialized.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.ComponentModel.TypeConverter.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Threading.ThreadPool.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\System.IO.Pipelines.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.IO.MemoryMappedFiles.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Runtime.Extensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Diagnostics.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Reflection.Emit.Lightweight.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Users\raygr\.nuget\packages\microsoft.aspnetcore.components.webassembly.devserver\8.0.7\tools\Microsoft.AspNetCore.Components.WebAssembly.Server.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Reflection.Emit.ILGeneration.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Reflection.Primitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.StaticFiles.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Http.Features.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Http.Extensions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Diagnostics.Abstractions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Net.Http.Headers.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Net.Http.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Security.Cryptography.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Collections.NonGeneric.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Net.Security.dll'. Symbol loading disabled by Include/Exclude setting.
+Exception thrown: 'System.IO.IOException' in System.Net.Security.dll
+Exception thrown: 'System.IO.IOException' in System.Net.Security.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Net.Security.dll
+Exception thrown: 'System.IO.IOException' in System.Net.Security.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:7204
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5233
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\raygr\source\repos\Raypg\MyBlazorPwa
+Verbose logs are written to:
+C:\Users\raygr\AppData\Local\Temp\visualstudio-js-debugger.txt
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Security.Principal.Windows.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Security.Claims.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Net.WebSockets.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Threading.Tasks.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Web.HttpUtility.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Text.RegularExpressions.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Diagnostics.Process.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.WebUtilities.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Threading.Channels.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.7\System.Net.NameResolution.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.FileSystemGlobbing.dll'. Symbol loading disabled by Include/Exclude setting.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.AspNetCore.Metadata.dll'. Symbol loading disabled by Include/Exclude setting.
+Loading symbols from symbol servers.
+Symbols from symbol servers completely loaded.
+[0m[48;5;127m[38;5;231mdotnet[0m[1m Loaded 8.51 MB resources[0m
+This application was built with linking (tree shaking) disabled. 
+Published applications will be significantly smaller if you install wasm-tools workload. 
+See also https://aka.ms/dotnet-wasm-features[0m
+Loaded 8.51 MB resources from cache
+Debugging hotkey: Shift+Alt+D (when application has focus)
+CSS Hot Reload ignoring https://localhost:7204/css/bootstrap/bootstrap.min.css because it was inaccessible or had more than 5000 rules.
+PSL: window.chrome.ntpSettingsPrivate.getPref does not have campaigns. c {Message: 'PSL: window.chrome.ntpSettingsPrivate.getPref does not have campaigns.', LogType: 0, ActivityId: '9718bb33-7673-46cf-8b28-6faa61d738b3', LogDateTime: Fri Jul 26 2024 18:05:59 GMT-0500 (Central Daylight Time), ParentActivityId: '', …} Fri Jul 26 2024 18:05:59 GMT-0500 (Central Daylight Time)
+PSL: Preferences API does not have background_setting_preferences. c {Message: 'PSL: Preferences API does not have background_setting_preferences.', LogType: 0, ActivityId: '39e90a5d-3c8a-4bc4-a4cd-f32f9d59cd6b', LogDateTime: Fri Jul 26 2024 18:05:59 GMT-0500 (Central Daylight Time), ParentActivityId: '', …} Fri Jul 26 2024 18:05:59 GMT-0500 (Central Daylight Time)
+Fri Jul 26 2024 18:06:00 GMT-0500 (Central Daylight Time): 1722035160420 {"id":8380,"severity":0,"pb":{"build":"20240725.495","appType":"edgeChromium","pcsVersion":"20240724.7_master","pcsEnv":"prod","buildAlias":"latest","shouldSupressWarnings":false,"shouldSampleErrorsForTreatement1":false,"shouldSampleErrorsForTreatement2":false,"networkStatus":"connected","customMessage":"pageProduct,pageType,pageName","w":1},"message":"Missing pivot field values"}
+The thread '[Thread Destroyed]' (22956) has exited with code 0 (0x0).
+The thread '[Thread Destroyed]' (15060) has exited with code 0 (0x0).
+The thread '[Thread Destroyed]' (11996) has exited with code 0 (0x0).
+The thread '[Thread Destroyed]' (2912) has exited with code 0 (0x0).
+The thread '[Thread Destroyed]' (14052) has exited with code 0 (0x0).
+The thread '[Thread Destroyed]' (21188) has exited with code 0 (0x0).
+The thread 1 has exited with code 0 (0x0).
+The thread 0 has exited with code 0 (0x0).
+The program 'service-worker.js' has exited with code 4294967295 (0xffffffff).
+The program 'JavaScript debug adapter: localhost:7204' has exited with code 4294967295 (0xffffffff).
+Exception thrown: 'System.ObjectDisposedException' in System.Private.CoreLib.dll
+CSS Hot Reload ignoring https://localhost:7204/css/bootstrap/bootstrap.min.css because it was inaccessible or had more than 5000 rules.
+[0m[48;5;127m[38;5;231mdotnet[0m[1m Loaded 8.51 MB resources[0m
+This application was built with linking (tree shaking) disabled. 
+Published applications will be significantly smaller if you install wasm-tools workload. 
+See also https://aka.ms/dotnet-wasm-features[0m
+Loaded 8.51 MB resources from cache
+Debugging hotkey: Shift+Alt+D (when application has focus)
+The thread 5 has exited with code 0 (0x0).
+The program 'JavaScript debug adapter: localhost:7204' has exited with code 4294967295 (0xffffffff).
+The thread 3 has exited with code 0 (0x0).
+The thread 4 has exited with code 0 (0x0).
+The thread 2 has exited with code 0 (0x0).
+The program 'JavaScript debug adapter: New tab' has exited with code 4294967295 (0xffffffff).
+The program 'web-worker' has exited with code 4294967295 (0xffffffff).
+The program 'service-worker.js?bundles=latest&riverAgeMinutes=2880&navAgeMinutes=2880&networkTimeoutSeconds=5&enableNetworkFirst=true&enableEmptySectionRoute=true&enableNavPreload=true&enableFallbackVerticalsFeed=true&noCacheLayoutTemplates=true' has exited with code 4294967295 (0xffffffff).
+Exception thrown: 'System.ObjectDisposedException' in System.Private.CoreLib.dll
+The program '' has exited with code 4294967295 (0xffffffff).
+The program '[10816] dotnet.exe' has exited with code 4294967295 (0xffffffff).
